@@ -69,6 +69,14 @@ INGAME_AIMODEL_ZOMBIE_TANK03
 ```
 ingame/networkaipawn/zombietank03/model_zombietank03
 
+Wall 🧱 
+```
+INGAME_DESTRUCTIBLE_WHITEDOOR002
+```
+```
+49 4E 47 41 4D 45 5F 44 45 53 54 52 55 43 54 49 42 4C 45 5F 57 48 49 54 45 44 4F 4F 52 30 30 32 00
+```
+
 
 # ກອງຢາ 
 ```
