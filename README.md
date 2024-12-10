@@ -206,14 +206,17 @@ INGAME_PICKUP_BAG_3
 ingame/pickup/bag/pickup_bag_3
 
 ## INVISIBLE GLOOWALL
-search 🔎 
+Replace 🧩⚡
 ```
 INGAME_GLOOSHIELD_BUNKER_TRANSPARENT
+```
+```
+49 4E 47 41 4D 45 5F 47 4C 4F 4F 53 48 49 45 4C 44 5F 42 55 4E 4B 45 52 5F 54 52 41 4E 53 50 41 52 45 4E 54 00
 ```
 ingame/assistantitem/icewallcrosshair_bunker
 
 
-🧬🧬🧬
+Search 🔎 
 ```
 INGAME_GLOOSHIELD_BUNKER
 ```
