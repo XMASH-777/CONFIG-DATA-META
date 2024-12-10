@@ -205,3 +205,11 @@ INGAME_PICKUP_BAG_3
 ```
 ingame/pickup/bag/pickup_bag_3
 
+## INVISIBLE GLOOWALL
+search 🔎 
+```
+INGAME_GLOOSHIELD_BUNKER_TRANSPARENT
+```
+ingame/assistantitem/icewallcrosshair_bunker
+
+
