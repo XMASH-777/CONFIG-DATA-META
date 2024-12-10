@@ -20,6 +20,10 @@ ingame/networkaipawn/networkaipartynpc
 ```
 INGAME_SHOP_EFFECT
 ```
+ກຳແພງ
+```
+INGAME_DESTRUCTIBLE_WHITEDOOR001
+```
 # ກອງຢາ 
 ```
 INGAME_PICKUP_FAK_1
