@@ -213,3 +213,11 @@ INGAME_GLOOSHIELD_BUNKER_TRANSPARENT
 ingame/assistantitem/icewallcrosshair_bunker
 
 
+🧬🧬🧬
+```
+INGAME_GLOOSHIELD_BUNKER
+```
+```
+49 4E 47 41 4D 45 5F 47 4C 4F 4F 53 48 49 45 4C 44 5F 42 55 4E 4B 45 52 00
+```
+ingame/assistantitem/icewall_bunker
