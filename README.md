@@ -17,6 +17,9 @@ NPC
 INGAME_NETWORKAI_PARTYNPC
 ```
 ingame/networkaipawn/networkaipartynpc
+```
+INGAME_SHOP_EFFECT
+```
 # ກອງຢາ 
 ```
 INGAME_PICKUP_FAK_1
