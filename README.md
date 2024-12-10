@@ -113,31 +113,7 @@ vfx_ingame_laser_redcard
 # GUN
 
 ```
-INGAME_WEAPON_AWM
+INGAME_PICKUP_AWM
 ```
-ingame/weapons/prefab_dts_awm_sniper
-prefab_dts_awm_sniper
-
-```
-INGAME_WEAPON_M1014
-```
-ingame/weapons/prefab_dts_m1014_gun
-prefab_dts_m1014_gun
-
-```
-INGAME_WEAPON_M1873
-```
-ingame/weapons/prefab_male_3p_sw_m1873
-prefab_male_3p_sw_m1873
-
-```
-INGAME_WEAPON_M1887
-```
-ingame/weapons/prefab_male_3p_pw_m1887
-prefab_male_3p_pw_m1887
-
-```
-INGAME_WEAPON_M1917
-```
-ingame/weapons/prefab_male_3p_sw_m1917
-prefab_male_3p_sw_m1917
+ingame/pickup/pickup_awm
+----------
