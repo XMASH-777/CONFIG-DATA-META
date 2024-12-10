@@ -3,6 +3,9 @@ Search magic
 ```
 INGAME_PLAYER_SNIPER_COLLIDER
 ```
+```
+INGAME_CAPSULE_HUMAN
+```
 replace 
 # 1
 ```
