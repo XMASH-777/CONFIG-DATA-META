@@ -12,6 +12,11 @@ INGAME_EGG_XMAS01
 ```
 INGAME_UAV_CAREPACKAGE
 ```
+NPC
+```
+INGAME_NETWORKAI_PARTYNPC
+```
+ingame/networkaipawn/networkaipartynpc
 # ກອງຢາ 
 ```
 INGAME_PICKUP_FAK_1
@@ -146,4 +151,10 @@ ingame/pickup/pickup_bm94
 INGAME_PICKUP_BAG_3
 ```
 ingame/pickup/bag/pickup_bag_3
+
+ຊອມບີ້
+```
+INGAME_AIMODEL_ZOMBIE_TANK03
+```
+ingame/networkaipawn/zombietank03/model_zombietank03
 
