@@ -86,136 +86,78 @@ INGAME_DESTRUCTIBLE_WHITEDOOR002
 ```
 INGAME_PICKUP_FAK_1
 ```
-ingame/pickup/item/pickup_fak_1
-pickup_fak_1
 ```
 INGAME_PICKUP_SUPERFAK
 ```
-ingame/pickup/item/pickup_superfak
-pickup_superfak
 # Laser Line
 ```
 INGAME_AIRDROPSHOP_LASER
 ```
-effects/vfx_inagme_laser_shop
-vfx_inagme_laser_shop
-339
 ```
 INGAME_CAREPACKAGE_LASER
 ```
-effects/vfx_ingame_laser_carepackage
-vfx_ingame_laser_carepackage
-339
-00001
 ```
 VFX_Ingame_Laser_Red
 ```
-effects/vfx_ingame_laser_red
-vfx_ingame_laser_red
-339
 ```
 VFX_Ingame_Smoke_CarePackage
 ```
-effects/vfx_ingame_smoke_carepackage
-vfx_ingame_smoke_carepackage
-339
-00001
 ```
 VFX_Ingame_Laser_Red_Grenade
 ```
-effects/vfx_ingame_laser_red_grenade
-vfx_ingame_laser_red_grenade
-339
-00001
 ```
 VFX_Ingame_Laser_Green
 ```
-effects/vfx_ingame_laser_green
-vfx_ingame_laser_green
-339
-00001
 ```
 VFX_Ingame_Laser_Purple
 ```
-effects/vfx_ingame_laser_purple
-vfx_ingame_laser_purple
-339
-00001
 ```
 VFX_Ingame_Laser_HypeJuice
 ```
-effects/vfx_ingame_laser_hypejuice
-vfx_ingame_laser_hypejuice
-339
-00001
 ```
 VFX_INGAME_LASER_TDM_GREEN
 ```
-effects/vfx_ingame_laser_tdm_green
-vfx_ingame_laser_tdm_green
-339
-00001
 ```
 VFX_INGAME_LASER_TDM_PURPLE
 ```
-effects/vfx_ingame_laser_tdm_purple
-vfx_ingame_laser_tdm_purple
-339
-00001
 ```
 VFX_INGAME_LASER_TDM_RED
 ```
-effects/vfx_ingame_laser_tdm_red
-vfx_ingame_laser_tdm_red
-339
 ```
 VFX_INGAME_LASER_TOKEN_ALLY
 ```
-effects/vfx_ingame_laser_bluecard
-vfx_ingame_laser_bluecard
-339
 ```
 VFX_INGAME_LASER_TOKEN_OPPONENT
 ```
-effects/vfx_ingame_laser_redcard
-vfx_ingame_laser_redcard
 
 # GUN
 
 ```
 INGAME_PICKUP_AWM
 ```
-ingame/pickup/pickup_awm
 
 woodpecker
 ```
 INGAME_PICKUP_M21A5
 ```
-ingame/pickup/pickup_m21a5
-
 ຊອງຍາວ
 ```
 INGAME_PICKUP_M1014
 ```
-ingame/pickup/pickup_m1014
 
 ຊອງຄວງ 
 ```
 INGAME_PICKUP_M1887
 ```
-ingame/pickup/pickup_m1887
-
 ບາເລດ
 ```
 INGAME_PICKUP_BM94
 ```
-ingame/pickup/pickup_bm94
 
 ກະເປົ໋າສາມ
 ```
 INGAME_PICKUP_BAG_3
 ```
-ingame/pickup/bag/pickup_bag_3
 
 ## INVISIBLE GLOOWALL
 Replace 🧩⚡
@@ -236,3 +178,43 @@ INGAME_GLOOSHIELD_BUNKER
 49 4E 47 41 4D 45 5F 47 4C 4F 4F 53 48 49 45 4C 44 5F 42 55 4E 4B 45 52 00
 ```
 ingame/assistantitem/icewall_bunker
+
+## ອາວຸດ
+![ดาวน์โหลด](https://github.com/user-attachments/assets/4e7021e2-e8d2-4249-865a-1848748d29c9)
+`KNIFE`
+```
+
+
+![MAC10](https://github.com/user-attachments/assets/b721d81d-0c50-4a1d-9678-04fc4d6e8ace)
+`Mac10`
+```
+INGAME_BACKWEAPON_Mac10
+```
+
+![ดาวน์โหลด (1)](https://github.com/user-attachments/assets/503f8710-a91c-47f0-8a1f-44d1fbae1a42)
+`Machete`
+```
+INGAME_BACKWEAPON_MACHETE
+```
+
+![images](https://github.com/user-attachments/assets/c933333c-f747-4e60-af62-fbbb8ed6d07f)
+`THROWINGKNIFE`
+```
+INGAME_BACKWEAPON_THROWINGKNIFE
+```
+
+![ดาวน์โหลด (2)](https://github.com/user-attachments/assets/6c65759e-9f4b-43a7-991e-02175155dcfe)
+`Sickle`
+```
+INGAME_BACKWEAPON_SICKLE
+```
+
+![ดาวน์โหลด (3)](https://github.com/user-attachments/assets/33bd0ab3-e26f-40ab-a246-065fb258a21d)
+`BASEBALLPOLE`
+```
+INGAME_BACKWEAPON_BASEBALLPOLE
+```
+
+![images (1)](https://github.com/user-attachments/assets/88c36437-fb3d-4f3c-b9cd-78a361c4dedf)
+`Pan`
+
