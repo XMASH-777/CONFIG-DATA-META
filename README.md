@@ -183,6 +183,9 @@ ingame/assistantitem/icewall_bunker
 ![ดาวน์โหลด](https://github.com/user-attachments/assets/4e7021e2-e8d2-4249-865a-1848748d29c9)
 
 `KNIFE`
+```
+INGAME_WEAPON_KNIFE
+```
 
 
 ![MAC10](https://github.com/user-attachments/assets/26872afc-96b2-4dd8-85ec-7652884b2c6b)
@@ -198,6 +201,9 @@ INGAME_BACKWEAPON_Mac10
 ```
 INGAME_BACKWEAPON_MACHETE
 ```
+```
+INGAME_WEAPON_MACHETE
+```
 
 ![images](https://github.com/user-attachments/assets/c933333c-f747-4e60-af62-fbbb8ed6d07f)
 
@@ -205,12 +211,18 @@ INGAME_BACKWEAPON_MACHETE
 ```
 INGAME_BACKWEAPON_THROWINGKNIFE
 ```
+```
+INGAME_WEAPON_THROWINGKNIFE
+```
 
 ![ดาวน์โหลด (2)](https://github.com/user-attachments/assets/6c65759e-9f4b-43a7-991e-02175155dcfe)
 
 `Sickle`
 ```
 INGAME_BACKWEAPON_SICKLE
+```
+```
+INGAME_WEAPON_SICKLE
 ```
 
 ![ดาวน์โหลด (3)](https://github.com/user-attachments/assets/33bd0ab3-e26f-40ab-a246-065fb258a21d)
@@ -224,3 +236,18 @@ INGAME_BACKWEAPON_BASEBALLPOLE
 
 `Pan`
 
+![images (2)](https://github.com/user-attachments/assets/86bf0210-f93e-4723-a35e-c267c522cb15)
+
+```
+INGAME_WEAPON_KATANA
+```
+```
+INGAME_WEAPON_KATANA_BLADE
+```
+```
+INGAME_WEAPON_KATANA_SCABBARD
+```
+```
+INGAME_BACKWEAPON_KATANA
+```
+```
