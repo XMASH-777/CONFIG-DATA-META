@@ -177,6 +177,11 @@ ingame/assistantitem/icewallcrosshair_bunker
 ```
 EFFECT_ICEWALL_EXTRA_HP
 ```
+```
+45 46 46 45 43 54 5F 49 
+43 45 57 41 4C 4C 5F 45 
+58 54 52 41 5F 48 50 00
+```
 
 Search 🔎 
 ```
