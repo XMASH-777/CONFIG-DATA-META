@@ -181,40 +181,47 @@ ingame/assistantitem/icewall_bunker
 
 ## ອາວຸດ
 ![ดาวน์โหลด](https://github.com/user-attachments/assets/4e7021e2-e8d2-4249-865a-1848748d29c9)
+
 `KNIFE`
 ```
 
 
 ![MAC10](https://github.com/user-attachments/assets/b721d81d-0c50-4a1d-9678-04fc4d6e8ace)
+
 `Mac10`
 ```
 INGAME_BACKWEAPON_Mac10
 ```
 
 ![ดาวน์โหลด (1)](https://github.com/user-attachments/assets/503f8710-a91c-47f0-8a1f-44d1fbae1a42)
+
 `Machete`
 ```
 INGAME_BACKWEAPON_MACHETE
 ```
 
 ![images](https://github.com/user-attachments/assets/c933333c-f747-4e60-af62-fbbb8ed6d07f)
+
 `THROWINGKNIFE`
 ```
 INGAME_BACKWEAPON_THROWINGKNIFE
 ```
 
 ![ดาวน์โหลด (2)](https://github.com/user-attachments/assets/6c65759e-9f4b-43a7-991e-02175155dcfe)
+
 `Sickle`
 ```
 INGAME_BACKWEAPON_SICKLE
 ```
 
 ![ดาวน์โหลด (3)](https://github.com/user-attachments/assets/33bd0ab3-e26f-40ab-a246-065fb258a21d)
+
 `BASEBALLPOLE`
 ```
 INGAME_BACKWEAPON_BASEBALLPOLE
 ```
 
 ![images (1)](https://github.com/user-attachments/assets/88c36437-fb3d-4f3c-b9cd-78a361c4dedf)
+
 `Pan`
 
