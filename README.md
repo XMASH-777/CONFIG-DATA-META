@@ -183,10 +183,9 @@ ingame/assistantitem/icewall_bunker
 ![ดาวน์โหลด](https://github.com/user-attachments/assets/4e7021e2-e8d2-4249-865a-1848748d29c9)
 
 `KNIFE`
-```
 
 
-![MAC10](https://github.com/user-attachments/assets/b721d81d-0c50-4a1d-9678-04fc4d6e8ace)
+![MAC10](https://github.com/user-attachments/assets/26872afc-96b2-4dd8-85ec-7652884b2c6b)
 
 `Mac10`
 ```
