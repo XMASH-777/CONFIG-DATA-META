@@ -89,7 +89,8 @@ INGAME_PICKUP_FAK_1
 ```
 INGAME_PICKUP_SUPERFAK
 ```
-# Laser Line
+# Laser Line 
+ສີສົມພູ
 ```
 INGAME_AIRDROPSHOP_LASER
 ```
