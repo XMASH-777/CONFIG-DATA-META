@@ -268,7 +268,7 @@ INGAME_BACKWEAPON_KATANA
 
 ## INVISIBLE VENDING MACHINE 
 
-SEARCH 🔎 ຕູ້
+## SEARCH 🔎 ຕູ້
 ```
 INGAME_LEVEL_SHOP_MODEL
 ```
@@ -277,13 +277,16 @@ INGAME_LEVEL_SHOP_MODEL
 INGAME_LEVEL_RADAR
 ```
 
-# REPLACE
+# REPLACE 
+[ສີເຫລືອງ](#ສີເຫລືອງ)
 ```
 WS_TRIGGER_MESH_GODZONE
 ```
+[ສີເຫລືອງຂີດ](#ສີເຫລືອງຂີດ)
 ```
 INGAME_SCENEEDIT_GROUP_BOX
 ```
+[ສີແດງ](#ສີແດງ)
 ```
 WS_TRIGGER_MESH_KILLZONE
 ```
@@ -293,7 +296,7 @@ WS_TRIGGER_MESH_KILLZONE
 EFFECT_BOUNTYBOX
 ```
 
-# AIRDROP 🎁
+# AIRDROP 🎁 ແອດັອບທົ່ວໄປ
 ```
 INGAME_FIRST_PERSON_DYNAMICCHARACTER_FEMALE_SIMPLE
 ```
@@ -305,7 +308,7 @@ INGAME_AIRDROPBOX
 ```
 INGAME_CAREPACKAGEBOX
 ```
->>> SEARCH 🔎 
+>>>## SEARCH 🔎 ແອດັອບນາທີ່
 ```
 VFX_BR_LEVELLOCKAIRDROPINTERACTAREA
 ```
