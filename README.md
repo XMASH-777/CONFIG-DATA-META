@@ -278,20 +278,28 @@ INGAME_LEVEL_RADAR
 ```
 
 # REPLACE 
+
 [ສີເຫລືອງ](#ສີເຫລືອງ)
 ```
 WS_TRIGGER_MESH_GODZONE
 ```
+![IMG_20241216_191808](https://github.com/user-attachments/assets/19b430e2-8308-4d83-a07a-6d1567687183)
+
+
 [ສີເຫລືອງຂີດ](#ສີເຫລືອງຂີດ)
+
 ```
 INGAME_SCENEEDIT_GROUP_BOX
 ```
+![IMG_20241216_191822](https://github.com/user-attachments/assets/297826c7-baa7-4477-9f2e-66d03ed46df5)
+
+
 [ສີແດງ](#ສີແດງ)
 ```
 WS_TRIGGER_MESH_KILLZONE
 ```
 # replace >>INGAME_CAREPACKAGEBOX
-[ເອຟເຟກ](#ເອຟເຟກ)
+[ເອຟເຟກ](#ເອຟເຟກ) ອອກສີເຫລືອງ
 ```
 EFFECT_BOUNTYBOX
 ```
