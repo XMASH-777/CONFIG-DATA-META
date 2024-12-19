@@ -100,6 +100,11 @@ INGAME_AIRDROP_LASER1
 ```
 ສີຟ້າ
 ```
+
+ແສງກາຢາ
+```
+VFX_INGAME_LASER_TDM_GREEN
+```
 INGAME_CAREPACKAGE_LASER
 ```
 ```
