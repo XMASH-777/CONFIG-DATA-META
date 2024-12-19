@@ -100,6 +100,7 @@ INGAME_AIRDROP_LASER1
 ```
 ສີຟ້າ
 ```
+![Screenshot_2024-12-19-20-58-16-72_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/3a6b5fa8-2ec9-4585-af98-b2ae7bab8d66)
 
 ແສງກາຢາ
 ```
