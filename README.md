@@ -86,61 +86,7 @@ INGAME_DESTRUCTIBLE_WHITEDOOR002
 ```
 INGAME_PICKUP_FAK_1
 ```
-```
-INGAME_PICKUP_SUPERFAK
-```
-# Laser Line 
-ສີສົມພູ
-```
-INGAME_AIRDROPSHOP_LASER
-```
-ສີເຫລືອງ
-```
-INGAME_AIRDROP_LASER1
-```
-![Screenshot_2024-12-19-20-58-16-72_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/3a6b5fa8-2ec9-4585-af98-b2ae7bab8d66)
 
-ແສງກາຢາ
-```
-VFX_INGAME_LASER_TDM_GREEN
-```
-ສີຟ້າ
-```
-INGAME_CAREPACKAGE_LASER
-```
-```
-VFX_Ingame_Laser_Red
-```
-```
-VFX_Ingame_Smoke_CarePackage
-```
-```
-VFX_Ingame_Laser_Red_Grenade
-```
-```
-VFX_Ingame_Laser_Green
-```
-```
-VFX_Ingame_Laser_Purple
-```
-```
-VFX_Ingame_Laser_HypeJuice
-```
-```
-VFX_INGAME_LASER_TDM_GREEN
-```
-```
-VFX_INGAME_LASER_TDM_PURPLE
-```
-```
-VFX_INGAME_LASER_TDM_RED
-```
-```
-VFX_INGAME_LASER_TOKEN_ALLY
-```
-```
-VFX_INGAME_LASER_TOKEN_OPPONENT
-```
 
 # GUN
 
@@ -333,3 +279,4 @@ LEVELLOCKAIRDROP
 ```
 WAITINGCUPINTERACTIONTRIGGER
 ```
+
