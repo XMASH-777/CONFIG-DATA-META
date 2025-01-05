@@ -52,6 +52,10 @@ INGAME_PICKUP_BAG_3
 **ເງົາໄອວໍ**
 **ຫລືເອົາໂຕນີ້ວາງໃນ** INGAME_GLOOSHIELD_BUNKER ເພື່ຶອທະລຸກະໄດ້
 
+ໂຄ້ດຢູ່ເທິງ 
+```
+INGAME_PET_Empty
+```
 Replace 🧩⚡
 ```
 INGAME_GLOOSHIELD_BUNKER_TRANSPARENT
@@ -206,4 +210,11 @@ LEVELLOCKAIRDROP
 ```
 WAITINGCUPINTERACTIONTRIGGER
 ```
-
+**ຫມັດ** ✊🏻
+```
+EFFECT_DECALWOOD_01
+```
+**ງໍຄົງສກິວ**
+```
+INGAME_ITEM_CAMOUFLAGE_BUSH
+```
