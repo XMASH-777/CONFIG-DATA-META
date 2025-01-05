@@ -11,76 +11,6 @@ INGAME_PLAYER_SNIPER_COLLIDER
 ```
 INGAME_CAPSULE_HUMAN
 ```
-```
-49 4E 47 41 4D 45 5F 43 41 50 53 55 4C 45 5F 48 55 4D 41 4E 00
-```
-
-## replace 
-# 1
-```
-INGAME_EGG_XMAS01
-```
-```
-49 4E 47 41 4D 45 5F 45 47 47 5F 58 4D 41 53 30 31 00
-```
-
-
-# 2
-```
-INGAME_UAV_CAREPACKAGE
-```
-```
-49 4E 47 41 4D 45 5F 55 41 56 5F 43 41 52 45 50 41 43 4B 41 47 45 00
-```
-
-
-NPC
-```
-INGAME_NETWORKAI_PARTYNPC
-```
-```
-49 4E 47 41 4D 45 5F 4E 45 54 57 4F 52 4B 41 49 5F 50 41 52 54 59 4E 50 43 00
-```
-ingame/networkaipawn/networkaipartynpc
-
-ສັນຍາລັກຮູບຕູ້ຊື້ຂອງ
-```
-INGAME_SHOP_EFFECT
-```
-```
-49 4E 47 41 4D 45 5F 53 48 4F 50 5F 45 46 46 45 43 54 00
-```
-
-
-ກຳແພງ
-```
-INGAME_DESTRUCTIBLE_WHITEDOOR001
-```
-```
-49 4E 47 41 4D 45 5F 44 45 53 54 52 55 43 54 49 42 4C 45 5F 57 48 49 54 45 44 4F 4F 52 30 30 31 00
-```
-
-ຊອມບີ້
-```
-INGAME_AIMODEL_ZOMBIE_TANK03
-```
-```
-49 4E 47 41 4D 45 5F 41 
-49 4D 4F 44 45 4C 5F 5A 
-4F 4D 42 49 45 5F 54 41 
-4E 4B 30 33 00 00
-
-```
-ingame/networkaipawn/zombietank03/model_zombietank03
-
-Wall 🧱 
-```
-INGAME_DESTRUCTIBLE_WHITEDOOR002
-```
-```
-49 4E 47 41 4D 45 5F 44 45 53 54 52 55 43 54 49 42 4C 45 5F 57 48 49 54 45 44 4F 4F 52 30 30 32 00
-```
-
 
 # ກອງຢາ 
 ```
@@ -117,16 +47,15 @@ INGAME_PICKUP_BM94
 INGAME_PICKUP_BAG_3
 ```
 
-## INVISIBLE GLOOWALL
+## INVISIBLE GLOOWALL 
+
+**ເງົາໄອວໍ**
+**ຫລືເອົາໂຕນີ້ວາງໃນ** INGAME_GLOOSHIELD_BUNKER ເພື່ຶອທະລຸກະໄດ້
+
 Replace 🧩⚡
 ```
 INGAME_GLOOSHIELD_BUNKER_TRANSPARENT
 ```
-```
-49 4E 47 41 4D 45 5F 47 4C 4F 4F 53 48 49 45 4C 44 5F 42 55 4E 4B 45 52 5F 54 52 41 4E 53 50 41 52 45 4E 54 00
-```
-ingame/assistantitem/icewallcrosshair_bunker
-
 ທະລຸ
 ```
 EFFECT_ICEWALL_EXTRA_HP
@@ -138,11 +67,9 @@ EFFECT_ICEWALL_EXTRA_HP
 ```
 
 Search 🔎 
+**ໄອວໍ**
 ```
 INGAME_GLOOSHIELD_BUNKER
-```
-```
-49 4E 47 41 4D 45 5F 47 4C 4F 4F 53 48 49 45 4C 44 5F 42 55 4E 4B 45 52 00
 ```
 ingame/assistantitem/icewall_bunker
 
